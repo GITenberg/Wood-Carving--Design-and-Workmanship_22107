@@ -1,0 +1,36 @@
+_repo: Wood-Carving--Design-and-Workmanship_22107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jack, George
+    gutenberg_agent_id: '25113'
+    url: http://www.gutenberg.org/2009/agents/25113
+  editor:
+    agent_name: Lethaby, W. R. (William Richard)
+    alias: Lethaby, William Richard
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '25114'
+    url: http://www.gutenberg.org/2009/agents/25114
+    wikipedia: http://en.wikipedia.org/wiki/William_Lethaby
+description: ''
+gutenberg_bookshelf:
+- Woodwork
+- Crafts
+- Technology
+gutenberg_issued: '2007-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood-carving'
+- !lcc 'NK'
+title: 'Wood-Carving: Design and Workmanship'
+url: http://www.gutenberg.org/ebooks/22107
